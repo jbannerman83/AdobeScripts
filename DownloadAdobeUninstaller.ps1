@@ -6,7 +6,7 @@ If(!(test-path -PathType container $path))
 }
 
 # URL and Destination
-$url = "https://ufile.io/2wigpqr8"
+$url = "https://github.com/jbannerman83/AdobeScripts/blob/main/AdobeUninstaller.exe"
 
 # Download file
 #Invoke-WebRequest -Uri $url -OutFile $path #-Credential $credObject
